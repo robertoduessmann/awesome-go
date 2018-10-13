@@ -52,6 +52,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
     - [Science and Data Analysis](#science-and-data-analysis)
     - [Security](#security)
     - [Serialization](#serialization)
+    - [Serverless](#serverless)
     - [Template Engines](#template-engines)
     - [Testing](#testing)
     - [Text Processing](#text-processing)
@@ -1155,6 +1156,12 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [php_session_decoder](https://github.com/yvasiyarov/php_session_decoder) - GoLang library for working with PHP session format and PHP Serialize/Unserialize functions.
 * [structomap](https://github.com/tuvistavie/structomap) - Library to easily and dynamically generate maps from static structures.
 * [structs](https://github.com/fatih/structs) - Library with support for converting structs to maps, struct keys/values to slices, and more.
+
+## Serverless
+
+*Libraries and tools for serverless development.*
+
+* [aws-lambda-go](https://github.com/aws/aws-lambda-go) - Libraries, samples and tools to help Go developers develop AWS Lambda functions.
 
 ## Server Applications
 
